@@ -3,7 +3,7 @@
 
 ##### NOW
 - 🔥 Interested in Computer Science
-- 💬 Currently working on App Development 
+- 💬 Currently preparing for graduate studies 
 
 ##### BIO
 - ⚙️ I use daily: `.py`, `C++`
