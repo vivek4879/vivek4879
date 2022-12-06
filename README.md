@@ -9,6 +9,8 @@
 - ⚙️ I use daily: `.py`, `C++`
 - 🌱 Learning all about **Software Engineering** and **Data Science**
 - 🦬 Aspiring Graduate Student
+- ✨Always excited to talk about literature (English, German, Marathi, Hindi)
+- ⚡️ Fun fact: I'm a huge fan of `Jeeves`, `Bertram Wilberforce Wooster`, and `all things Wodehouse`.
 
 ##### STACK
 <!-- Python -->
