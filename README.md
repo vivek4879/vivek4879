@@ -6,8 +6,8 @@
 - 💬 Currently pursuing MS CS @ University of Florida 
 
 ##### BIO
-- ⚙️ I use daily: `.py`, `C++`
-- 🌱 Learning all about **Software Engineering**, **Database Management Systems**, **Distributed Operating System Principles**, and **Digital Health**
+- ⚙️ I use daily: `.py`
+- 🌱 Learning all about **Software Engineering**, **Database Management Systems**, **Natural Language Processing**, and **Data Engineering**
 - ✨Always excited to talk about literature (English, German, Marathi, Hindi)
 - ⚡️ Fun fact: I'm a huge fan of `Jeeves`, `Bertram Wilberforce Wooster`, and `all things Wodehouse`.
 
