@@ -1,6 +1,6 @@
 # Hi, I'm Vivek 👋
 
-**Full Stack Engineer** at [FavorIt](https://favorit.app) · MS CS, University of Florida
+**Full Stack Engineer** at [FavorIt](https://favorit-website.vercel.app/) · MS CS, University of Florida
 
 I build across the entire stack — React Native, backend services, payment infrastructure — with a focus on reliability and details that actually matter to users. Recent work includes live trip updates with SwiftUI & ActivityKit, Stripe-integrated payment flows, and booking systems built to handle concurrent load. Deep linking invite flows for iOS taught me how small UX details can have an outsized impact on growth.
 
